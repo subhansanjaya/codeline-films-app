@@ -2,8 +2,6 @@
 
 > This is a test assignment which covers RESTful API, DB, auth and form functionality in Laravel.
 
-Demo (Hosted on a free tier AWS account): http://52.43.149.158/codeline-films-app/
-
 ## Build Setup
 
 ``` bash
